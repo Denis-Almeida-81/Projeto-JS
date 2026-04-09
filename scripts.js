@@ -12,7 +12,7 @@ function convertCurrency() {
 
         console.log(currencySelect.value)
 
-        const dolarDay = 5.20
+        const dolarDay = 5.40
         const euroDay = 6.20
         const libraDay = 7.20
         const bitcoinDay = 200000.00
